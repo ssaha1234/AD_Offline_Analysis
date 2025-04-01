@@ -1,2 +1,2 @@
 # AD_Offline_Analysis
-Data analysis for Anomaly Detection Trigger on ATLAS
+Data analysis for Anomaly Detection Trigger on ATLAS. Data from AD Trigger, analysed using Distance decorrelation tenchnique (https://arxiv.org/abs/2001.05310, https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.055006). DisCo is applied to decorrelate the HLT and Offline Autoencoders. ABCD method used to perform background estimation, where ABCD regions are defined by events passing/failing the HLT and Offline AE. 
