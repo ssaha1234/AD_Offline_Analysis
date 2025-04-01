@@ -1,0 +1,21 @@
+name: l1AD_env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - keras==2.13.1
+  - tensorflow==2.13.1
+  - ipython
+  - matplotlib
+  - seaborn
+  - pandas
+  - numpy
+  - scikit-learn
+  - scipy
+  - plotly
+  - jupyter
+  - h5py
+  - matplotlib
+  - pip
+  - pip :
+    - qkeras

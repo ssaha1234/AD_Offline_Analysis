@@ -1,0 +1,22 @@
+
+{"save_path": "/eos/user/s/ssaha/SWAN_projects/AD_Trigger_1/ntuples/trained_models/multiple_trainings/trial_8", "dropout_p": 0.1, "L2_reg_coupling": 0.01, "latent_dim": 4, "large_network": true, "num_trainings": 1, "training_weights": true}{"train_data_scheme": "topo2A_train+overlap", "pt_normalization_type": "StandardScaler", "L1AD_rate": 1000}
+
+{"save_path": "/eos/user/s/ssaha/SWAN_projects/AD_Trigger_1/ntuples/trained_models/multiple_trainings/trial_8", "dropout_p": 0.1, "L2_reg_coupling": 0.01, "latent_dim": 4, "large_network": true, "num_trainings": 1, "training_weights": true}{"train_data_scheme": "topo2A_train+overlap", "pt_normalization_type": "StandardScaler", "L1AD_rate": 1000}
+
+{"save_path": "/eos/user/s/ssaha/SWAN_projects/AD_Trigger_1/ntuples/trained_models/multiple_trainings/trial_9", "dropout_p": 0.1, "L2_reg_coupling": 0.01, "latent_dim": 4, "large_network": true, "num_trainings": 1, "training_weights": true}{"train_data_scheme": "topo2A_train", "pt_normalization_type": "global_division", "L1AD_rate": 1000, "pt_thresholds": [50, 20, 20, 20], "comments": "new L1AD model"}
+
+{"save_path": "/eos/user/s/ssaha/SWAN_projects/AD_Trigger_1/ntuples/trained_models/multiple_trainings/trial_9", "dropout_p": 0.1, "L2_reg_coupling": 0.01, "latent_dim": 4, "large_network": true, "num_trainings": 1, "training_weights": true}{"train_data_scheme": "topo2A_train", "pt_normalization_type": "global_division", "L1AD_rate": 1000, "pt_thresholds": [50, 20, 20, 20], "comments": "new L1AD model"}
+
+{"save_path": "/eos/user/s/ssaha/SWAN_projects/AD_Trigger_1/ntuples/trained_models/multiple_trainings/trial_10", "dropout_p": 0.1, "L2_reg_coupling": 0.01, "latent_dim": 4, "large_network": true, "num_trainings": 1, "training_weights": true}{"train_data_scheme": "topo2A_train", "pt_normalization_type": "global_division", "L1AD_rate": 1000, "pt_thresholds": [50, 20, 20, 20], "comments": "new L1AD model"}
+
+{"save_path": "/eos/user/s/ssaha/SWAN_projects/AD_Trigger_1/ntuples/trained_models/multiple_trainings/trial_11", "dropout_p": 0.1, "L2_reg_coupling": 0.01, "latent_dim": 4, "large_network": true, "num_trainings": 1, "training_weights": true}{"train_data_scheme": "topo2A_train", "pt_normalization_type": "global_division", "L1AD_rate": 1000, "pt_thresholds": [50, 20, 20, 20], "comments": "new L1AD model"}
+
+{"save_path": "/eos/user/s/ssaha/SWAN_projects/AD_Trigger_1/ntuples/trained_models/multiple_trainings/trial_12", "dropout_p": 0.1, "L2_reg_coupling": 0.01, "latent_dim": 4, "large_network": true, "num_trainings": 10, "training_weights": true}{"train_data_scheme": "topo2A_train", "pt_normalization_type": "global_division", "L1AD_rate": 1000, "pt_thresholds": [50, 20, 20, 20], "comments": "new L1AD model"}
+
+{"save_path": "/eos/user/s/ssaha/SWAN_projects/AD_Trigger_1/ntuples/trained_models/multiple_trainings/trial_test_DisCo", "dropout_p": 0.1, "L2_reg_coupling": 0.01, "latent_dim": 4, "large_network": true, "num_trainings": 1, "training_weights": true}{"train_data_scheme": "topo2A_train", "pt_normalization_type": "global_division", "L1AD_rate": 1000, "pt_thresholds": [50, 20, 20, 20], "comments": "new L1AD model"}
+
+{"save_path": "/eos/user/s/ssaha/SWAN_projects/AD_Trigger_1/ntuples/trained_models/multiple_trainings/trial_test_DisCo", "dropout_p": 0.1, "L2_reg_coupling": 0.01, "latent_dim": 4, "large_network": true, "num_trainings": 1, "training_weights": true}{"train_data_scheme": "topo2A_train", "pt_normalization_type": "global_division", "L1AD_rate": 1000, "pt_thresholds": [50, 20, 20, 20], "comments": "new L1AD model"}
+
+{"save_path": "/eos/user/s/ssaha/SWAN_projects/AD_Trigger_1/ntuples/trained_models/multiple_trainings/trial_test_DisCo", "dropout_p": 0.1, "L2_reg_coupling": 0.01, "latent_dim": 4, "large_network": true, "num_trainings": 1, "training_weights": true}{"train_data_scheme": "topo2A_train", "pt_normalization_type": "global_division", "L1AD_rate": 1000, "pt_thresholds": [50, 20, 20, 20], "comments": "new L1AD model"}
+
+{"save_path": "/eos/user/s/ssaha/SWAN_projects/AD_Trigger_1/ntuples/trained_models/multiple_trainings/trial_test_DisCo", "dropout_p": 0.1, "L2_reg_coupling": 0.01, "latent_dim": 4, "large_network": true, "num_trainings": 1, "training_weights": true}{"train_data_scheme": "topo2A_train", "pt_normalization_type": "global_division", "L1AD_rate": 1000, "pt_thresholds": [50, 20, 20, 20], "comments": "new L1AD model"}
